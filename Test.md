@@ -10,6 +10,7 @@ Run `mvn clean install`
 
 > Run `mvn clean install`
 
+Run `gradle --build-cache`
 
 Do `mkdir new_directory`
 
