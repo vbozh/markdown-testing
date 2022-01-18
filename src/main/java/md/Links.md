@@ -25,3 +25,21 @@ example.com (but not in IDEA, for example).
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
+___
+___
+___
+# RabbitMq Module
+[![Build Status](https://travis-ci.org/spryker/rabbit-mq.svg?branch=master)](https://travis-ci.org/spryker/rabbit-mq)
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.1-8892BF.svg)](https://php.net/)
+[![License](https://poser.pugx.org/spryker/rabbit-mq/license.svg)](https://packagist.org/packages/spryker/rabbit-mq)
+
+## Installation
+
+## Documentation
+
+[Spryker Documentation](https://spryker.github.io)
+
+# Debugging microservices with Smart Step-Into
+
+[![JetBrains team project](http://jb.gg/badges/team.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+Install [Smart Step-Into for Microservice Debugging plugin](https://plugins.jetbrains.com/plugin/18260-smart-step-into-for-microservice-debugging) plugin for IntelliJ IDEA.
