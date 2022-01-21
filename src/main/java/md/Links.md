@@ -1,8 +1,12 @@
-[Test-1](Notes://somehost/C12569D1003369E8)
-[Test-2](File:///C:/Users/Viktoria.Bozhko/IdeaProjects/markdown-testing/src/main/java/md/images/img-1.jpg)
-[Test-3](ftp://uploadcds.labs.intellij.net/)
-[Test-4](https://jetbrains.team/)
-[Test-5](http://jetbrains.team/)
+[Test-1 - Notes](Notes://somehost/C12569D1003369E8) </br>
+[Test-2 - File](File:///C:/Users/Viktoria.Bozhko/IdeaProjects/markdown-testing/src/main/java/md/images/img-1.jpg) </br>
+[Test-2.1 - File](File:////Users/victoriabozhko/IdeaBugProjects/markdown-testing/src/main/java/md/images/img-1.jpg) </br>
+[Test-3- FTP](ftp://uploadcds.labs.intellij.net/) </br>
+[Test-4 - Https](https://jetbrains.team/) </br>
+[Test-5 - http](http://jetbrains.team/) </br>
+[Test-5 - кек](кек://somehost/C12569D1003369E8) </br>
+[Test-5 - лол](лол://somehost/C12569D1003369E8) </br>
+
 
 ---
 

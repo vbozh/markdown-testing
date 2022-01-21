@@ -22,7 +22,7 @@
 ##pics
 ![pic on Mac absolute path](/Users/victoriabozhko/IdeaBugProjects/markdown-testing/src/main/java/md/images/img-1.jpg)
 
-![pic on Mac absolute path](images/img-1.jpg)
+![pic on Mac relative path](./images/img-1.jpg)
 
 ##html images
 1. <img alt="relative" src="images/img-1.jpg" width="300">
@@ -34,3 +34,9 @@
 4. <img alt="external" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/International_Space_Station_after_undocking_of_STS-132.jpg/1920px-International_Space_Station_after_undocking_of_STS-132.jpg" width="300">
 <br>
 5. <img src="images/img-1.jpg" alt="Alt attr" style="float: left; margin-right: 0px;" />
+
+
+
+----
+
+
