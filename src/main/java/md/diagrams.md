@@ -3,6 +3,14 @@ flowchart LR
     Query("Джигурда")
 ```
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ```puml
 @startuml
 participant Participant as Foo
@@ -22,13 +30,3 @@ Foo -> Foo6 : To collections
 Foo -> Foo7: To queue
 @enduml
 ```
-
-| ---- | 1   | 3   | 4   | 5   | 6   |
-|------|-----|-----|-----|-----|-----|
-| ---- | 2   |     |     |     |     |
-| ---- | 3   |     |     |     |     |
-| ---- |     |     |     |     |     |
-| ---- | 4   |     |     |     |     |
-| ---- | 5   |     |     |     |     |
-| ---- | 6   |     |     |     |     |
-| ---- | 7   |     |     |     |     |
